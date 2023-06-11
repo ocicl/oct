@@ -1,0 +1,10 @@
+* oct
+
+A Lisp Implementation of Quad-Double Float
+
+|---------+------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/oct/oct.git |
+| commit  | b6d87bc                                        |
+| systems | oct octi                                       |
+|---------+------------------------------------------------|
+
